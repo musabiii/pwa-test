@@ -1,0 +1,27 @@
+{
+  "name": "pwa",
+  "short_name": "pwa",
+  "theme_color": "#97b9d4",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/img/icon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/icon256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/img/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
